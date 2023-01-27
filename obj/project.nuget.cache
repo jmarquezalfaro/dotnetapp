@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "sv/ztG4QhoHP5ubfDdeNXavlPxmxiQc4HovP5uN5/J+Tt6KPKjW9MZPEj+oj3McsbyztTc7H4+j8B3OZHuOWXg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jose.marquez\\Documents\\Jose Marquez - Personal\\demos\\repo-dotnet\\repo-dotnet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jose.marquez\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.9\\microsoft.netcore.app.ref.6.0.9.nupkg.sha512",
+    "C:\\Users\\jose.marquez\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.9\\microsoft.windowsdesktop.app.ref.6.0.9.nupkg.sha512",
+    "C:\\Users\\jose.marquez\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.9\\microsoft.aspnetcore.app.ref.6.0.9.nupkg.sha512",
+    "C:\\Users\\jose.marquez\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.9\\microsoft.netcore.app.host.win-x64.6.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

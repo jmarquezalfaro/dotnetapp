@@ -7,6 +7,12 @@ pipeline {
       }
     }
 
+    stage('Deploy') {
+      steps {
+        ebCreateEnvironment(applicationName: 'dotnetapp11', environmentName: 'dotnet')
+      }
+    }
+
   }
   environment {
     env = 'dotnet'

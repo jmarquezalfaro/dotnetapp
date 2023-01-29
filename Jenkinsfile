@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('Build') {
       steps {
-        ebCreateApplication 'appdotnet10'
+        ebCreateApplication 'app-jenkis'
       }
     }
 
